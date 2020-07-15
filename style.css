@@ -1,9 +1,20 @@
+/* .animate__animated.animate__backInDown {
+    --animation-duration: 5s;
+    --animation-delay: 5s;
+}
+
+.animate__animated.animate__flash {
+    --animate-duration: 3s;
+    --animate-delay: 5s;
+} */
+
 h1 {
     /* position: center; */
     align-self: center;
     justify-self: center;
     text-align: center;
     color: white;
+    font-size: 70px;
 }
 
 body {
@@ -30,6 +41,7 @@ input[type=submit] {
     align-self: center;
     justify-self: center;
     text-align: center;
+    margin-top: 120px;
 }
 
 input[type=submit]:hover {
