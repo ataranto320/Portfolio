@@ -1,5 +1,5 @@
 #masthead {
-    position: fixed;
+    /* position: fixed; */
     z-index: 99;
     width: 100%;
     margin: 0 0 30px;
@@ -31,3 +31,11 @@ nav a:first-child {
 /* #navbar{
     margin-top: -25px;
 } */
+
+#one {
+    color: black;
+}
+
+.animate__animated.animate__fadeInRight {
+    font-size: 20px;
+}
