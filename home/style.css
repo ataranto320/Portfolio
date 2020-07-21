@@ -39,3 +39,10 @@ nav a:first-child {
 .animate__animated.animate__fadeInRight {
     font-size: 80px;
 }
+
+.btn-proj {
+    border: 2px solid blue;
+    background-color: red;
+    border-radius: 4px;
+    cursor: pointer;
+}
