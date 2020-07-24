@@ -1,3 +1,13 @@
+html {
+    background-color: lightblue;
+}
+
+body {
+    background-color: lightcoral;
+    /* overflow: auto; */
+    /* background-size: cover; */
+}
+
 #masthead {
     /* position: fixed; */
     z-index: 99;
