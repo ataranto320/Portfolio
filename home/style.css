@@ -38,6 +38,7 @@ nav a:first-child {
 
 .animate__animated.animate__fadeInRight {
     font-size: 80px;
+    /* transition-duration: 12s; */
 }
 
 .btn-proj {
