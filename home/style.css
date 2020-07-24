@@ -1,13 +1,3 @@
-html {
-    background-color: lightblue;
-}
-
-body {
-    background-color: lightcoral;
-    /* overflow: auto; */
-    /* background-size: cover; */
-}
-
 #masthead {
     /* position: fixed; */
     z-index: 99;
@@ -67,3 +57,48 @@ nav a:first-child {
 /* .col-sm-4 {
 
 } */
+
+@media screen and (max-width: 980px) {
+    [class="container"]{
+        width: 100%;
+    }
+    [class="row"]{
+        width: 100%;
+    }
+    [class="letters"]{
+        width: 100%;
+    }
+    [class=class="col-sm-4"]{
+       width: 100%;
+    }
+  }
+  
+  @media screen and (max-width: 768px) {
+    [class="container"]{
+        width: 100%;
+    }
+    [class="row"]{
+        width: 100%;
+    }
+    [class="letters"]{
+        width: 100%;
+    }
+    [class=class="col-sm-4"]{
+       width: 100%;
+    }
+  }
+  
+  @media screen and (max-width: 640px) {
+     [class="container"]{
+         width: 100%;
+     }
+     [class="row"]{
+         width: 100%;
+     }
+     [class="letters"]{
+         width: 100%;
+     }
+     [class=class="col-sm-4"]{
+        width: 100%;
+    }
+  }
