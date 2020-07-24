@@ -32,13 +32,14 @@ nav a:first-child {
     margin-top: -25px;
 } */
 
-#one {
+/* #one {
     color: black;
-}
+} */
 
 .animate__animated.animate__fadeInRight {
     font-size: 80px;
     /* transition-duration: 12s; */
+    color: black;
 }
 
 .btn-proj {
