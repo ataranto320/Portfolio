@@ -1,5 +1,5 @@
-#masthead {
-    /* position: fixed; */
+/* #masthead {
+    position: fixed;
     z-index: 99;
     width: 100%;
     margin: 0 0 30px;
@@ -7,14 +7,14 @@
     color: white;
     background: lightskyblue;
     border-bottom: 2px solid blue;
-}
+} */
 
-nav {
+/* nav {
     float: right;
     margin-top: 25px;
-}
+} */
 
-nav a {
+/* nav a {
     display: inline-block;
     padding-left: 15px;
     margin-left: 15px;
@@ -22,11 +22,11 @@ nav a {
     color: white;
     text-decoration: none;
     border-left: 1px solid white;
-}
+} */
 
-nav a:first-child {
+/* nav a:first-child {
     border-left: 0 none;
-}
+} */
 
 /* #navbar{
     margin-top: -25px;
@@ -35,6 +35,11 @@ nav a:first-child {
 /* #one {
     color: black;
 } */
+
+#head {
+    width: 100%;
+    overflow: auto;
+}
 
 .animate__animated.animate__fadeInRight {
     font-size: 80px;
